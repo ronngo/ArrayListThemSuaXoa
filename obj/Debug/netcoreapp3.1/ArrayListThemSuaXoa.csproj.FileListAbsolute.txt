@@ -1,0 +1,13 @@
+D:\baitap\ArrayListThemSuaXoa\bin\Debug\netcoreapp3.1\ArrayListThemSuaXoa.exe
+D:\baitap\ArrayListThemSuaXoa\bin\Debug\netcoreapp3.1\ArrayListThemSuaXoa.deps.json
+D:\baitap\ArrayListThemSuaXoa\bin\Debug\netcoreapp3.1\ArrayListThemSuaXoa.runtimeconfig.json
+D:\baitap\ArrayListThemSuaXoa\bin\Debug\netcoreapp3.1\ArrayListThemSuaXoa.runtimeconfig.dev.json
+D:\baitap\ArrayListThemSuaXoa\bin\Debug\netcoreapp3.1\ArrayListThemSuaXoa.dll
+D:\baitap\ArrayListThemSuaXoa\bin\Debug\netcoreapp3.1\ArrayListThemSuaXoa.pdb
+D:\baitap\ArrayListThemSuaXoa\obj\Debug\netcoreapp3.1\ArrayListThemSuaXoa.csprojAssemblyReference.cache
+D:\baitap\ArrayListThemSuaXoa\obj\Debug\netcoreapp3.1\ArrayListThemSuaXoa.AssemblyInfoInputs.cache
+D:\baitap\ArrayListThemSuaXoa\obj\Debug\netcoreapp3.1\ArrayListThemSuaXoa.AssemblyInfo.cs
+D:\baitap\ArrayListThemSuaXoa\obj\Debug\netcoreapp3.1\ArrayListThemSuaXoa.csproj.CoreCompileInputs.cache
+D:\baitap\ArrayListThemSuaXoa\obj\Debug\netcoreapp3.1\ArrayListThemSuaXoa.dll
+D:\baitap\ArrayListThemSuaXoa\obj\Debug\netcoreapp3.1\ArrayListThemSuaXoa.pdb
+D:\baitap\ArrayListThemSuaXoa\obj\Debug\netcoreapp3.1\ArrayListThemSuaXoa.genruntimeconfig.cache
